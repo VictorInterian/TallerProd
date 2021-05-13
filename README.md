@@ -60,6 +60,8 @@ Version 8 Update 291
 # Base de datos
 La implementacion consta de una base de datos en la que se almacenan la informacion del cliente y de los productos, por medio de una conectividad en java mysql.java para lograr obtener los datos almacenados y los productos almacenados para lograr mostrarlos.
 
+* Para poder correr el programa es necesario tener phpmyadmin para importar el .sql del proyecto, de esta forma se podran hacer cambios asi como logearse debido a la integracion del login.
+
 # Instalación
 * Descargar el proyecto del repositorio
 * Descomprimir .rar / .zip
