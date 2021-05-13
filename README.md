@@ -86,6 +86,9 @@ El principal uso es exclusivamente para los negocios PyME que requieran dar alta
 # Roadmap
 Se espera que se mejore la implementacion de la base de datos con el sistema, se espera mejorar mas funciones como el boton de ayuda e implementar mas caracteristicas que ayudaran a mejorar el sistema
 
+# Video demostración
+https://youtu.be/USpA2JGo47Q
+
 # Alumno
 Victor Hugo Cavazos Interián   2838808
 
