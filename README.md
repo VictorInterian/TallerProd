@@ -27,5 +27,12 @@ Proyecto punto de venta
        -  project.properties
        -  project.xml
   
-  * Source
-  - 
+ - .circleci
+ - LICENSE
+ - README.md
+ - build.xml
+ - config.yml
+ - manifest.mf
+
+
+
