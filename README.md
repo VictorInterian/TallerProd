@@ -65,8 +65,9 @@ La implementacion consta de una base de datos en la que se almacenan la informac
 # Instalación
 * Descargar el proyecto del repositorio
 * Descomprimir .rar / .zip
-* Se abre la carpeta para localizar el archivo .jar
+* Se abre la carpeta "dist" para localizar el archivo .jar
 * Se inicia el ejecutable
+* Proceder a abrir la base de datos para poder logearse al sistema
 
 # Configuración
 * Se procede a instalar la version 8 de java o en su defecto la más actual.
