@@ -6,3 +6,19 @@ El planteamiento recae en un sistema de gestion de ventas, dadas de alta para us
 * Las tiendas locales pequeñas como abarrotes, tienditas, etc. (PyME) muchas veces no cuentan con un sistema de punto de venta debido a los altos costos, por lo que identificar productos, escanearlos, etc resulta muy dificil cuando se intenta registrarlo en una hoja de papel, por lo que mi idea principal es lograr desarrollar un sistema que ayude a las PyMES mitigando este problema y agilizando sus movimientos, mi principal objetivo es otorgar gratuitamente este sistema a las tiendas PyME que existen cerca de mi localidad, de esta manera mejorar la economia local cerca de mi hogar.
 
 #Tabla de contenido
+
+Proyecto punto de venta
+* Build
+
+* Classes
+
+¤ built-jar.properties
+
+* Classes
+
+¤ Img
+
+¤  Modelo
+
+¤  Vistas
+*
