@@ -67,7 +67,7 @@ La implementacion consta de una base de datos en la que se almacenan la informac
 * Descomprimir .rar / .zip
 * Se abre la carpeta "dist" para localizar el archivo .jar
 * Se inicia el ejecutable
-* Proceder a abrir la base de datos para poder logearse al sistema
+* Proceder a abrir la base de datos para poder logearse al sistema utilizando el archivo bd_ventas.sql
 
 # Configuración
 * Se procede a instalar la version 8 de java o en su defecto la más actual.
